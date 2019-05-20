@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Profile
+## Perfil
 
 > Director deportivo
 > Entrenador Nivel III
 
 ![Branching](https://pbs.twimg.com/media/Cr-VLuSXEAAidBE.jpg)
 
-## My FootBallCloud
+## Mi FootBallCloud
 
 | Temporada | Cargo              | Equipo                       | Categoría                  | Mérito                  |
 |:----------|:-------------------|:-----------------------------|:---------------------------|:------------------------|
@@ -20,8 +20,6 @@ layout: default
 | 15/16     | Segundo Entrenador | Racing de Villaverde C.F     | 2º Regional                | Ascenso a 1º Regional   |
 | 14/15     | Segundo Entrenador | Racing de Villaverde C.F     | 1º Regional                |                         |
 | 12/14     | Segundo Entrenador | Racing de Villaverde C.F     | 2º Juvenil                 |                         |
-
-[Powered by FootballCloud](https://footballcloud.net/)
 
 ```
 No hay sentimiento más gratificante que trabajar por y para quien tú quieres.
